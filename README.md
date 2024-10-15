@@ -2,6 +2,8 @@
 
 # H3: A Hexagonal Hierarchical Geospatial Indexing System
 
+by me
+
 [![test-linux](https://github.com/uber/h3/workflows/test-linux/badge.svg)](https://github.com/uber/h3/actions)
 [![test-macos](https://github.com/uber/h3/workflows/test-macos/badge.svg)](https://github.com/uber/h3/actions)
 [![test-windows](https://github.com/uber/h3/workflows/test-windows/badge.svg)](https://github.com/uber/h3/actions)
